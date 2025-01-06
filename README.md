@@ -61,7 +61,7 @@ This project is a powerful yet simple-to-use **WhatsApp Message Sender** that au
 
 #### **🚨 Prerequisites**  
 
-1. Install Python 3.8+  
+1. Install Python 3.8+ or above with Supporting libraries as mentioned; 
 2. Install required libraries:  
    ```bash  
    pip install -r requirements.txt  
